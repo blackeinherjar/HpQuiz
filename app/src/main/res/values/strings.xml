@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">HpQuiz</string>
+
+    <string name="question_text">
+        Is today a good day?
+    </string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next Question</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">InCorrect!</string>
+    <string name="action_settings">Settings</string>
+    <string name="question_one">The Sorcerer/Philosopher Stone was guarded by 7 things.</string>
+    <string name="question_two">Dumbledore was responsible for the trio finding out about the stone </string>
+    <string name="question_three">In the book, Petunia Dursley is described as having blonde hair.</string>
+    <string name="question_four">Hagrid told Harry that he was a wizard on his 10th birthday. </string>
+    <string name="question_five">Vernon Dursley works for a mask making company.</string>
+    <string name="question_six">Professor McGonagall can turn into a cat without a design around her eyes.</string>
+    <string name="question_seven">Harry is the Seeker for the Quidditch team. </string>
+    <string name="question_eight">Hagrid gives Harry an owl for his 11th birthday.</string>
+    <string name="question_nine">Harry first met draco at school.</string>
+    <string name="question_ten">Professor Snape turned out to be the bad guy.</string>
+    <string name="hint_button">Hint</string>
+    <string name="hint_one">Fluffy the three - headed dog, devils snare, flying keys, troll, wizards chess, potions logic, and the mirror.</string>
+    <string name="hint_two"> "I shouldn't have said that!" </string>
+    <string name="hint_three">In the movie she had brown hair</string>
+    <string name="hint_four">Decade add one.</string>
+    <string name="hint_five">He was a drill salesman. </string>
+    <string name="hint_six">She wore glasses.</string>
+    <string name="hint_seven">He tremendously save the rememberall.</string>
+    <string name="hint_eight">He got it as his birthday present so he could have a pet at hogwarts.</string>
+    <string name="hint_nine">Harry bought his school robes in Madame Malkins.</string>
+    <string name="hint_ten">"You have your mother's eyes."</string>
+
+
+
+
+</resources>
